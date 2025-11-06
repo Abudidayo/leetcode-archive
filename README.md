@@ -7,6 +7,7 @@ a collection of problems completed on leetcode
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Abudidayo/leetcode-archive/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Abudidayo/leetcode-archive/tree/master/0013-roman-to-integer) |
 ## Array
 |  |
 | ------- |
@@ -15,4 +16,9 @@ a collection of problems completed on leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abudidayo/leetcode-archive/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Abudidayo/leetcode-archive/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Abudidayo/leetcode-archive/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
