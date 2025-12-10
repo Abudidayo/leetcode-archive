@@ -14,6 +14,7 @@ a collection of problems completed on leetcode
 | [0001-two-sum](https://github.com/Abudidayo/leetcode-archive/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Abudidayo/leetcode-archive/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/Abudidayo/leetcode-archive/tree/master/0036-valid-sudoku) |
+| [0704-binary-search](https://github.com/Abudidayo/leetcode-archive/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +53,8 @@ a collection of problems completed on leetcode
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Abudidayo/leetcode-archive/tree/master/0036-valid-sudoku) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Abudidayo/leetcode-archive/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
