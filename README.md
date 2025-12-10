@@ -12,6 +12,7 @@ a collection of problems completed on leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abudidayo/leetcode-archive/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Abudidayo/leetcode-archive/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ a collection of problems completed on leetcode
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Abudidayo/leetcode-archive/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Abudidayo/leetcode-archive/tree/master/0014-longest-common-prefix) |
 ## Linked List
 |  |
 | ------- |
@@ -29,4 +31,8 @@ a collection of problems completed on leetcode
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Abudidayo/leetcode-archive/tree/master/0021-merge-two-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Abudidayo/leetcode-archive/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
