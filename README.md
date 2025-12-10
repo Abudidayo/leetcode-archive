@@ -14,6 +14,7 @@ a collection of problems completed on leetcode
 | [0001-two-sum](https://github.com/Abudidayo/leetcode-archive/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Abudidayo/leetcode-archive/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/Abudidayo/leetcode-archive/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Abudidayo/leetcode-archive/tree/master/0049-group-anagrams) |
 | [0704-binary-search](https://github.com/Abudidayo/leetcode-archive/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ a collection of problems completed on leetcode
 | [0001-two-sum](https://github.com/Abudidayo/leetcode-archive/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Abudidayo/leetcode-archive/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Abudidayo/leetcode-archive/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Abudidayo/leetcode-archive/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Abudidayo/leetcode-archive/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -28,6 +30,7 @@ a collection of problems completed on leetcode
 | [0013-roman-to-integer](https://github.com/Abudidayo/leetcode-archive/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Abudidayo/leetcode-archive/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Abudidayo/leetcode-archive/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Abudidayo/leetcode-archive/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Abudidayo/leetcode-archive/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
@@ -48,6 +51,7 @@ a collection of problems completed on leetcode
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Abudidayo/leetcode-archive/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Abudidayo/leetcode-archive/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
