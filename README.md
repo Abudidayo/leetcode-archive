@@ -18,12 +18,14 @@ a collection of problems completed on leetcode
 | ------- |
 | [0001-two-sum](https://github.com/Abudidayo/leetcode-archive/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Abudidayo/leetcode-archive/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/Abudidayo/leetcode-archive/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Abudidayo/leetcode-archive/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Abudidayo/leetcode-archive/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Abudidayo/leetcode-archive/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Abudidayo/leetcode-archive/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -40,4 +42,8 @@ a collection of problems completed on leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abudidayo/leetcode-archive/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Abudidayo/leetcode-archive/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
