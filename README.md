@@ -31,6 +31,7 @@ a collection of problems completed on leetcode
 | [0014-longest-common-prefix](https://github.com/Abudidayo/leetcode-archive/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Abudidayo/leetcode-archive/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Abudidayo/leetcode-archive/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Abudidayo/leetcode-archive/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Abudidayo/leetcode-archive/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
@@ -61,4 +62,8 @@ a collection of problems completed on leetcode
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Abudidayo/leetcode-archive/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Abudidayo/leetcode-archive/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
