@@ -10,6 +10,7 @@ class Solution:
             if s[l].lower() != s[r].lower():
                 return False
             l, r = l + 1, r - 1
+            
         return True
 
     def alphaNum(self, c):
