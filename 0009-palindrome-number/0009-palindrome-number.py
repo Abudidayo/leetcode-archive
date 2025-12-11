@@ -1,19 +1,18 @@
-class Solution(object):
-    def isPalindrome(self, x):
-        if x < 0:
-            return False
-        if x == 0:
-            return True
-        if x % 10 == 0:
-            return False
+class Solution:
+    def isPalindrome(self, x: int) -> bool:
+        if x < 0: return False
 
-        originalX = x
-        numReversed = 0
-        while x > 0:
-           lastDigit = x % 10
-           numReversed = numReversed * 10 + lastDigit
-           x = x // 10
-
-        return numReversed == originalX
-            
+        div = 1
+        while x > 10 * div:
+            div *= 10
         
+        while x:
+            right = x % 10
+            left = x // div
+
+            if left != right: return False
+
+            x = (x % div) // 10
+            div = div / 100
+
+        return True
