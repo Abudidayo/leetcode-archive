@@ -13,6 +13,7 @@ a collection of problems completed on leetcode
 | ------- |
 | [0001-two-sum](https://github.com/Abudidayo/leetcode-archive/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Abudidayo/leetcode-archive/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Abudidayo/leetcode-archive/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Abudidayo/leetcode-archive/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Abudidayo/leetcode-archive/tree/master/0049-group-anagrams) |
 | [0283-move-zeroes](https://github.com/Abudidayo/leetcode-archive/tree/master/0283-move-zeroes) |
@@ -66,6 +67,7 @@ a collection of problems completed on leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Abudidayo/leetcode-archive/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Abudidayo/leetcode-archive/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Abudidayo/leetcode-archive/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
