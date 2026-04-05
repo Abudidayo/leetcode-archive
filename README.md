@@ -20,6 +20,7 @@ a collection of problems completed on leetcode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abudidayo/leetcode-archive/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Abudidayo/leetcode-archive/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Abudidayo/leetcode-archive/tree/master/0704-binary-search) |
+| [1929-concatenation-of-array](https://github.com/Abudidayo/leetcode-archive/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,4 +96,8 @@ a collection of problems completed on leetcode
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abudidayo/leetcode-archive/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Abudidayo/leetcode-archive/tree/master/0226-invert-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Abudidayo/leetcode-archive/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
