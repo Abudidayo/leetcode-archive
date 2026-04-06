@@ -18,6 +18,7 @@ a collection of problems completed on leetcode
 | [0036-valid-sudoku](https://github.com/Abudidayo/leetcode-archive/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Abudidayo/leetcode-archive/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abudidayo/leetcode-archive/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/Abudidayo/leetcode-archive/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Abudidayo/leetcode-archive/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Abudidayo/leetcode-archive/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/Abudidayo/leetcode-archive/tree/master/1929-concatenation-of-array) |
@@ -28,6 +29,7 @@ a collection of problems completed on leetcode
 | [0013-roman-to-integer](https://github.com/Abudidayo/leetcode-archive/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Abudidayo/leetcode-archive/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Abudidayo/leetcode-archive/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Abudidayo/leetcode-archive/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abudidayo/leetcode-archive/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -58,6 +60,7 @@ a collection of problems completed on leetcode
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Abudidayo/leetcode-archive/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Abudidayo/leetcode-archive/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abudidayo/leetcode-archive/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
