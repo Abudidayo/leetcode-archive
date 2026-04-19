@@ -22,6 +22,7 @@ a collection of problems completed on leetcode
 | [0217-contains-duplicate](https://github.com/Abudidayo/leetcode-archive/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Abudidayo/leetcode-archive/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Abudidayo/leetcode-archive/tree/master/0704-binary-search) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abudidayo/leetcode-archive/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1929-concatenation-of-array](https://github.com/Abudidayo/leetcode-archive/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@ a collection of problems completed on leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abudidayo/leetcode-archive/tree/master/0020-valid-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abudidayo/leetcode-archive/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Sorting
 |  |
 | ------- |
@@ -108,4 +110,8 @@ a collection of problems completed on leetcode
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abudidayo/leetcode-archive/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abudidayo/leetcode-archive/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
