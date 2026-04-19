@@ -28,6 +28,7 @@ a collection of problems completed on leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abudidayo/leetcode-archive/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abudidayo/leetcode-archive/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Abudidayo/leetcode-archive/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Abudidayo/leetcode-archive/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Abudidayo/leetcode-archive/tree/master/0049-group-anagrams) |
@@ -36,6 +37,7 @@ a collection of problems completed on leetcode
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abudidayo/leetcode-archive/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Abudidayo/leetcode-archive/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Abudidayo/leetcode-archive/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Abudidayo/leetcode-archive/tree/master/0020-valid-parentheses) |
@@ -114,4 +116,8 @@ a collection of problems completed on leetcode
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abudidayo/leetcode-archive/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abudidayo/leetcode-archive/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
