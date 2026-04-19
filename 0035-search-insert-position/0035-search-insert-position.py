@@ -15,7 +15,3 @@ class Solution:
                 l = m + 1
             
         return l
-
-
-
-        
