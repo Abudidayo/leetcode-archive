@@ -16,6 +16,7 @@ a collection of problems completed on leetcode
 | [0014-longest-common-prefix](https://github.com/Abudidayo/leetcode-archive/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abudidayo/leetcode-archive/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abudidayo/leetcode-archive/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Abudidayo/leetcode-archive/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Abudidayo/leetcode-archive/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Abudidayo/leetcode-archive/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Abudidayo/leetcode-archive/tree/master/0088-merge-sorted-array) |
@@ -79,6 +80,7 @@ a collection of problems completed on leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Abudidayo/leetcode-archive/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abudidayo/leetcode-archive/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Abudidayo/leetcode-archive/tree/master/0704-binary-search) |
 ## Two Pointers
