@@ -26,6 +26,7 @@ a collection of problems completed on leetcode
 | [0283-move-zeroes](https://github.com/Abudidayo/leetcode-archive/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Abudidayo/leetcode-archive/tree/master/0704-binary-search) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abudidayo/leetcode-archive/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abudidayo/leetcode-archive/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1929-concatenation-of-array](https://github.com/Abudidayo/leetcode-archive/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -83,6 +84,7 @@ a collection of problems completed on leetcode
 | [0035-search-insert-position](https://github.com/Abudidayo/leetcode-archive/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abudidayo/leetcode-archive/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Abudidayo/leetcode-archive/tree/master/0704-binary-search) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abudidayo/leetcode-archive/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +94,7 @@ a collection of problems completed on leetcode
 | [0125-valid-palindrome](https://github.com/Abudidayo/leetcode-archive/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abudidayo/leetcode-archive/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Abudidayo/leetcode-archive/tree/master/0283-move-zeroes) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abudidayo/leetcode-archive/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Tree
 |  |
 | ------- |
