@@ -28,6 +28,7 @@ a collection of problems completed on leetcode
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abudidayo/leetcode-archive/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Abudidayo/leetcode-archive/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1929-concatenation-of-array](https://github.com/Abudidayo/leetcode-archive/tree/master/1929-concatenation-of-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Abudidayo/leetcode-archive/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,4 +132,8 @@ a collection of problems completed on leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abudidayo/leetcode-archive/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Abudidayo/leetcode-archive/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
