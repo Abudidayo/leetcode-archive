@@ -10,6 +10,7 @@ a collection of problems completed on leetcode
 | [0012-integer-to-roman](https://github.com/Abudidayo/leetcode-archive/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Abudidayo/leetcode-archive/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abudidayo/leetcode-archive/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0788-rotated-digits](https://github.com/Abudidayo/leetcode-archive/tree/master/0788-rotated-digits) |
 ## Array
 |  |
 | ------- |
@@ -127,6 +128,7 @@ a collection of problems completed on leetcode
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abudidayo/leetcode-archive/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0788-rotated-digits](https://github.com/Abudidayo/leetcode-archive/tree/master/0788-rotated-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
